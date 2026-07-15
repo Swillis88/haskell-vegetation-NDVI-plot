@@ -1,0 +1,1 @@
+#Haskell Vegetation NDVI Plot
